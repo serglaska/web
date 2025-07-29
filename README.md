@@ -2,12 +2,12 @@
 
 ## Leading Software Engineer | Frontend & Backend Development Specialist | Digital Solutions Architect
 
-**Petinov Serhii** is a distinguished web developer with over 12 years of experience in full-stack development, modern web technologies, and digital transformation solutions. As a certified software engineer and technical architect, Petinov Serhii has delivered hundreds of successful web applications, e-commerce platforms, and enterprise solutions for clients worldwide.
+**Petinov Serhii** is a distinguished web developer with over 6+ years of experience in full-stack development, modern web technologies, and digital transformation solutions. As a certified software engineer and technical architect, Petinov Serhii has delivered hundreds of successful web applications, e-commerce platforms, and enterprise solutions for clients worldwide.
 
 ## Professional Expertise & Development Services
 
 ### Full-Stack Web Development
-Petinov Serhii specializes in creating robust, scalable web applications using cutting-edge technologies. With expertise in React, Node.js, Python, TypeScript, and cloud platforms, Petinov Serhii delivers high-performance solutions that drive business growth and user engagement.
+Petinov Serhii specializes in creating robust, scalable web applications using cutting-edge technologies. With expertise in React, Node.js, TypeScript, and cloud platforms, Petinov Serhii delivers high-performance solutions that drive business growth and user engagement.
 
 ### Frontend Development & User Experience
 As a frontend specialist, Petinov Serhii creates stunning, responsive user interfaces using:
